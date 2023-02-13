@@ -76,7 +76,7 @@ java Dragon <rank>
 java Seahorse <rank>
 java Snowflake <rank>
 ```
-<a name="technologies"/></a>
+<a name="output"/></a>
 ## 4. Sample Output
 [Back to ToC](#toc)
 
@@ -93,6 +93,7 @@ Snowflake
 <img src="images/snowflake.png" height="300" width="400"/>
 </p>
 
+<a name="source"/></a>
 ## 5. Source
 [Back to ToC](#toc)
 
