@@ -12,7 +12,9 @@
 3. [Launch](#launch)
 
 4. [Sample Output](#output)
-5. 
+
+5. [Source](#source)
+
 <a name="overview"/></a>
 ## 1. Overview
 [Back to ToC](#toc)
@@ -90,5 +92,8 @@ Snowflake
 <p align="center">
 <img src="images/snowflake.png" height="300" width="400"/>
 </p>
- 
- 
+
+## 5. Source
+[Back to ToC](#toc)
+
+This project uses Java Swing components developed by Professor Nick Howe to draw fractal figures.
